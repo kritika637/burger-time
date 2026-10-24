@@ -2,13 +2,13 @@ FROM maven:3.9.6-eclipse-temurin-17
 
 WORKDIR /app
 
-# Copy all backend files into the container
+# Copy all backend files into container
 COPY . .
 
-# Build the application using standard maven command
+# Build the app
 RUN mvn clean package -DskipTests
 
-EXPOSE 8080
+EXPOSE 10000
 
-# Run the jar file
-CMD ["java", "-jar", "target/tasty-burger-api-1.0.0.jar"]
+# Limit JVM memory to 350MB (to prevent 512MB OOM crash) and use Render's PORT
+CMD ["sh", "-c", "java -Xmx350m -Dserver.port=${PORT:-10000} -jar target/tasty-burger-api-1.0.0.jar"]
