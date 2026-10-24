@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "review-author-1.jpg",
+    "name": "RAHUL MALHOTRA",
+    "text": "Their Crispy Veg Maharaja is truly a 'Maharaja'! The combination of fresh lettuce and a melting cheese blend is absolutely top-notch. The veggies were also quite crunchy."
+  },
+  {
+    "id": 2,
+    "image": "review-author-2.jpg",
+    "name": "SNEHA REDDY",
+    "text": "I ordered online, and the burger was delivered to my doorstep in just 25 minutes—perfect for a midnight craving! The packaging was very premium, and the food was piping hot."
+  },
+  {
+    "id": 3,
+    "image": "review-author-3.jpg",
+    "name": "AMAN SHARMA",
+    "text": "The best burger spot in town! The quality is absolutely fantastic, and the prices are pocket-friendly too. The double-patty loaded cheese burger has become my absolute favorite."
+  },
+  {
+    "id": 4,
+    "image": "review-author-5.jpg",
+    "name": "PRIYA PATEL",
+    "text": "I tried their Spicy Paneer Delight Burger, and the crunch was next-level! I really loved the Peri-Peri spice twist—it gave off authentic Indian vibes."
+  }
+]

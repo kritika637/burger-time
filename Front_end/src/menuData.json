@@ -1,0 +1,573 @@
+[
+  {
+    "id": 1,
+    "image": "/images/veg_burger/veg-1.png",
+    "rating": 5.0,
+    "title": "Crispy Veg Supreme",
+    "desc": "Our signature crunchy veg patty with fresh lettuce, onions, and creamy mayo.",
+    "price": 129,
+    "category": "veg-burger"
+  },
+  {
+    "id": 2,
+    "image": "/images/veg_burger/veg-2.png",
+    "rating": 4.5,
+    "title": "Aloo Tikki Delight",
+    "desc": "The classic sweet and spicy potato patty topped with sweet tomato mayo.",
+    "price": 89,
+    "category": "veg-burger"
+  },
+  {
+    "id": 3,
+    "image": "/images/veg_burger/veg-3.png",
+    "rating": 4.8,
+    "title": "Veg Maharaja Mac",
+    "desc": "Double decker rich veg patty burger with extra cheese, jalapenos, and premium cocktail sauce.",
+    "price": 199,
+    "category": "veg-burger"
+  },
+  {
+    "id": 4,
+    "image": "/images/veg_burger/veg-4.png",
+    "rating": 4.6,
+    "title": "Spicy Paneer Delight",
+    "desc": "Rich, premium paneer block fried in hot crunchy batter, layered with southwest spicy dressing.",
+    "price": 189,
+    "category": "veg-burger"
+  },
+  {
+    "id": 5,
+    "image": "/images/veg_burger/veg-9.png",
+    "rating": 4.4,
+    "title": "Cheese Burst Veggie",
+    "desc": "Liquid cheddar overflowing patty mixed with aromatic mixed herbs and crunchy lettuce.",
+    "price": 169,
+    "category": "veg-burger"
+  },
+  {
+    "id": 6,
+    "image": "/images/veg_burger/veg-5.png",
+    "rating": 4.3,
+    "title": "Tandoori Grill Burger",
+    "desc": "Smoky char-grilled mixed vegetable patty dipped in deep traditional tandoori mayo flavor.",
+    "price": 119,
+    "category": "veg-burger"
+  },
+  {
+    "id": 7,
+    "image": "/images/veg_burger/veg-6.png",
+    "rating": 4.7,
+    "title": "Corn & Cheese Crunch",
+    "desc": "Sweet golden corn nuggets embedded inside a crispy potato crust with molten mozzarella.",
+    "price": 149,
+    "category": "veg-burger"
+  },
+  {
+    "id": 8,
+    "image": "/images/veg_burger/veg-10.png",
+    "rating": 4.2,
+    "title": "Mushroom Swiss Veggie",
+    "desc": "Sauteed button mushrooms tossed in garlic butter with melted Swiss style white cheese.",
+    "price": 179,
+    "category": "veg-burger"
+  },
+  {
+    "id": 9,
+    "image": "/images/veg_burger/veg-7.png",
+    "rating": 4.5,
+    "title": "Peri Peri Veg Crunch",
+    "desc": "Spicy mix-veg crispy patty dusted heavily with premium African peri peri seasoning.",
+    "price": 139,
+    "category": "veg-burger"
+  },
+  {
+    "id": 10,
+    "image": "/images/veg_burger/veg-8.png",
+    "rating": 4.1,
+    "title": "Classic Veg Cheese Burst",
+    "desc": "Standard single veg patty layered with two rich slices of processed amul cheese.",
+    "price": 109,
+    "category": "veg-burger"
+  },
+  {
+    "id": 11,
+    "image": "/images/veg_burger/veg-9.png",
+    "rating": 4.6,
+    "title": "Jalapeno Popper Burger",
+    "desc": "Fiery pickled jalapenos arranged over a supreme potato patty with cream cheese spread.",
+    "price": 149,
+    "category": "veg-burger"
+  },
+  {
+    "id": 12,
+    "image": "/images/veg_burger/veg-10.png",
+    "rating": 4.4,
+    "title": "Double Decker Veg Overload",
+    "desc": "Two giant classic veg crispy patties stacked with dynamic layers of fresh salad veggies.",
+    "price": 219,
+    "category": "veg-burger"
+  },
+  {
+    "id": 13,
+    "image": "/images/veg_burger/veg-11.png",
+    "rating": 4.8,
+    "title": "Barbecue Paneer Melt",
+    "desc": "Crispy paneer strips doused heavily in hickory-smoked sticky brown sweet BBQ sauce.",
+    "price": 199,
+    "category": "veg-burger"
+  },
+  {
+    "id": 14,
+    "image": "/images/veg_burger/veg-12.png",
+    "rating": 4.3,
+    "title": "Schezwan Spicy Bomber",
+    "desc": "Super hot Indo-Chinese style schezwan chutney loaded street style veg burger.",
+    "price": 99,
+    "category": "veg-burger"
+  },
+  {
+    "id": 15,
+    "image": "/images/veg_burger/veg-13.png",
+    "rating": 4.5,
+    "title": "Avocado Garden Green",
+    "desc": "Premium healthy choice mashed rich avocados spread over an organic multi-grain base bun.",
+    "price": 239,
+    "category": "veg-burger"
+  },
+  {
+    "id": 16,
+    "image": "/images/veg_burger/veg-14.png",
+    "rating": 4.7,
+    "title": "Chipotle Crunch King",
+    "desc": "Smoky chipotle pepper infused southwest liquid cheese over golden shredded standard patty.",
+    "price": 159,
+    "category": "veg-burger"
+  },
+
+  {
+    "id": 17,
+    "image": "/images/non-veg/nonveg-3.png",
+    "rating": 4.9,
+    "title": "McSpicy Chicken Clone",
+    "desc": "Tender chicken patty coated in spicy, crunchy batter with creamy salad mayo.",
+    "price": 179,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 18,
+    "image": "/images/non-veg/nonveg-4.png",
+    "rating": 4.7,
+    "title": "Double BBQ Chicken Cheese",
+    "desc": "Two flame-grilled chicken patties layered with smoky BBQ sauce and Cheddar cheese.",
+    "price": 249,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 19,
+    "image": "/images/non-veg/nonveg-5.png",
+    "rating": 4.8,
+    "title": "Chicken Maharaja Mac",
+    "desc": "Double decker spicy flame-grilled chicken patties with cheese, pickles, and habanero sauce.",
+    "price": 229,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 20,
+    "image": "/images/non-veg/nonveg-6.png",
+    "rating": 4.6,
+    "title": "Crispy Fish Fillet King",
+    "desc": "Premium white fish cod patty golden fried, matched with elite sour tartar sauce spread.",
+    "price": 199,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 21,
+    "image": "/images/non-veg/nonveg-7.png",
+    "rating": 4.5,
+    "title": "Smoky Egg Cheese Burger",
+    "desc": "Fresh farm-baked steamed egg disk stacked elegantly over a soft toasted butter bun.",
+    "price": 99,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 22,
+    "image": "/images/non-veg/nonveg-8.jpeg",
+    "rating": 4.8,
+    "title": "Tandoori Chicken Grill",
+    "desc": "Juicy minced chicken chicken patty infused with direct tandoori aromatic whole spices.",
+    "price": 169,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 23,
+    "image": "/images/non-veg/nonveg-9.jpeg",
+    "rating": 4.4,
+    "title": "Chicken Cheese Bomber",
+    "desc": "Deep fried dynamic chicken breast stuffed completely with internal warm stringy cheese.",
+    "price": 209,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 24,
+    "image": "/images/non-veg/nonveg-10.jpeg",
+    "rating": 4.7,
+    "title": "Crunchy Pepperoni Feast",
+    "desc": "Crispy chicken patty crowned beautifully with crispy smoked mutton pepperoni rounds.",
+    "price": 269,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 25,
+    "image": "/images/non-veg/nonveg-11.jpeg",
+    "rating": 4.3,
+    "title": "Fiery Habanero Chicken",
+    "desc": "Extremely hot Mexican habanero chilli paste smeared evenly over super crispy skin patty.",
+    "price": 189,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 26,
+    "image": "/images/non-veg/nonveg-12.jpeg",
+    "rating": 4.6,
+    "title": "Bacon Wrapped Delight",
+    "desc": "Grilled chicken patty wrapped in crispy dynamic strips with premium white mayo.",
+    "price": 289,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 27,
+    "image": "/images/non-veg/nonveg-13.jpeg",
+    "rating": 4.5,
+    "title": "Monster Chicken Double",
+    "desc": "Gigantic two full-size crisp chicken fillets layered with triple slices of rich cheese.",
+    "price": 299,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 28,
+    "image": "/images/non-veg/nonveg-14.jpeg",
+    "rating": 4.2,
+    "title": "Garlic Butter Chicken",
+    "desc": "Melted premium garlic butter dripping soft chicken mince patty with sweet onion rings.",
+    "price": 159,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 29,
+    "image": "/images/non-veg/nonveg-15.jpeg",
+    "rating": 4.4,
+    "title": "Schezwan Chicken Fire",
+    "desc": "Juicy chicken fried chunk tossed completely in rich sizzling dark schezwan glazing.",
+    "price": 169,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 30,
+    "image": "/images/non-veg/nonveg-16.jpeg",
+    "rating": 4.7,
+    "title": "Premium Mutton Whopper",
+    "desc": "Authentic flame-roasted pure mutton minced heavy steak with crisp sweet sour pickles.",
+    "price": 319,
+    "category": "nonveg-burger"
+  },
+  {
+    "id": 31,
+    "image": "/images/non-veg/nonveg-17.jpeg",
+    "rating": 4.6,
+    "title": "Chipotle Chicken Supreme",
+    "desc": "Classic crisp crust breast patty perfectly seasoned with smoky dynamic chipotle sauce.",
+    "price": 189,
+    "category": "nonveg-burger"
+  },
+
+  {
+    "id": 32,
+    "image": "/images/fries&sides/Fries.png",
+    "rating": 4.6,
+    "title": "World Famous Fries (M)",
+    "desc": "Crispy, golden salted French Fries, perfectly fluffy on the inside.",
+    "price": 99,
+    "category": "sides"
+  },
+  {
+    "id": 33,
+    "image": "/images/fries&sides/Peri_Fries.png",
+    "rating": 4.8,
+    "title": "Peri Peri Spice Fries",
+    "desc": "Our classic salted fries tossed in a fiery, hot African Peri Peri seasoning mix.",
+    "price": 119,
+    "category": "sides"
+  },
+  {
+    "id": 34,
+    "image": "/images/fries&sides/Pizza_Pockets.png",
+    "rating": 4.4,
+    "title": "Baked Pizza Pockets (2 Pcs)",
+    "desc": "Golden oven-baked dough pockets stuffed with cheese and tangy tomato sauce.",
+    "price": 80,
+    "category": "sides"
+  },
+  {
+    "id": 35,
+    "image": "/images/fries&sides/Chicken_Nuggets.png",
+    "rating": 4.7,
+    "title": "Crispy Chicken Nuggets (6 Pcs)",
+    "desc": "Tender chicken meat chunks fried in a crunchy, savory exterior seasoned batter skin.",
+    "price": 139,
+    "category": "sides"
+  },
+  {
+    "id": 36,
+    "image": "/images/fries&sides/Onion_Rings.png",
+    "rating": 4.3,
+    "title": "Golden Onion Rings",
+    "desc": "Thick-cut fresh sweet white onions dipped heavily in seasoned dynamic craft batter.",
+    "price": 99,
+    "category": "sides"
+  },
+  {
+    "id": 37,
+    "image": "/images/fries&sides/Cheesy_Habanero.png",
+    "rating": 4.5,
+    "title": "Cheesy Habanero Balls (5 Pcs)",
+    "desc": "Molten spicy cheddar core potato rounds deep fried until beautifully yellow crisp.",
+    "price": 119,
+    "category": "sides"
+  },
+  {
+    "id": 38,
+    "image": "/images/fries&sides/Loaded_Fries.png",
+    "rating": 4.9,
+    "title": "Ultimate Cheese Loaded Fries",
+    "desc": "A heavy platter of standard crisp fries drowned in smooth hot warm cheese liquid matrix.",
+    "price": 169,
+    "category": "sides"
+  },
+  {
+    "id": 39,
+    "image": "/images/fries&sides/Waffle_Fries.png",
+    "rating": 4.6,
+    "title": "Waffle Criss-Cross Fries",
+    "desc": "Unique waffle checkerboard shape extra crunchy premium cut skin-on salted potatoes.",
+    "price": 129,
+    "category": "sides"
+  },
+
+  {
+    "id": 40,
+    "image": "/images/drinks&dips/Coca_Cola.png",
+    "rating": 5.0,
+    "title": "Chilled Coca Cola (Large)",
+    "desc": "Fizz-loaded ice-cold refreshing soft drink to wash down your heavy burger meal.",
+    "price": 60,
+    "category": "beverages"
+  },
+  {
+    "id": 41,
+    "image": "/images/drinks&dips/Cheese_Dip.png",
+    "rating": 4.7,
+    "title": "Creamy Jalapeno Cheese Dip",
+    "desc": "Rich, thick, and velvety premium cheddar cheese dip infused with jalapenos.",
+    "price": 25,
+    "category": "sides"
+  },
+  {
+    "id": 42,
+    "image": "/images/drinks&dips/Fanta.png",
+    "rating": 4.4,
+    "title": "Orange Fanta Blast",
+    "desc": "Bright citrusy sweet orange fizzy carbonated drink served with extra clear ice cubes.",
+    "price": 60,
+    "category": "beverages"
+  },
+  {
+    "id": 43,
+    "image": "/images/drinks&dips/Sprite.png",
+    "rating": 4.5,
+    "title": "Sprite Lime Clear",
+    "desc": "Sharp lemon-lime refreshing zero caffeine cold fizz dynamic beverage cup.",
+    "price": 60,
+    "category": "beverages"
+  },
+  {
+    "id": 44,
+    "image": "/images/drinks&dips/Iced_Tea.png",
+    "rating": 4.6,
+    "title": "Lemon Mint Iced Tea",
+    "desc": "Freshly brewed cold natural black tea leaves infused with clear hand squeezed lemons.",
+    "price": 89,
+    "category": "beverages"
+  },
+  {
+    "id": 45,
+    "image": "/images/drinks&dips/Chocolate_Shake.jpeg",
+    "rating": 4.8,
+    "title": "Premium Chocolate Shake",
+    "desc": "Thick premium cold milk blended with rich Belgian cocoa powder and dark syrup drop.",
+    "price": 129,
+    "category": "beverages"
+  },
+  {
+    "id": 46,
+    "image": "/images/drinks&dips/Strawberry_Shake.png",
+    "rating": 4.5,
+    "title": "Strawberry Bliss Shake",
+    "desc": "Creamy sweet vanilla soft serve churned evenly with mountain organic strawberry puree.",
+    "price": 129,
+    "category": "beverages"
+  },
+  {
+    "id": 47,
+    "image": "/images/drinks&dips/Mustard_Dip.png",
+    "rating": 4.3,
+    "title": "Sweet Honey Mustard Dip",
+    "desc": "Smooth yellow traditional ground mustard mixed with wild golden sweet honey drop.",
+    "price": 25,
+    "category": "sides"
+  },
+  {
+    "id": 48,
+    "image": "/images/drinks&dips/Smoky_Dip.png",
+    "rating": 4.6,
+    "title": "Smoky Texas BBQ Dip",
+    "desc": "Dark authentic thick molasses-based premium barbecue dipping paste accompaniment.",
+    "price": 25,
+    "category": "sides"
+  },
+
+  {
+    "id": 49,
+    "image": "/images/combos/combo-1.png",
+    "rating": 4.2,
+    "title": "Pocket Saver Veg Combo",
+    "desc": "1 Junior Aloo Tikki Burger + Small Fizz Drink. Pocket friendly dynamic deal.",
+    "price": 99,
+    "category": "combos"
+  },
+  {
+    "id": 50,
+    "image": "/images/combos/combo-2.png",
+    "rating": 4.3,
+    "title": "Pocket Saver Chicken Combo",
+    "desc": "1 Steamed Egg Cheese Burger + Small Fizz Drink. Protein on a tight budget.",
+    "price": 149,
+    "category": "combos"
+  },
+  {
+    "id": 51,
+    "image": "/images/combos/combo-3.png",
+    "rating": 4.9,
+    "title": "Veg Budget Crunchy Combo",
+    "desc": "Crispy Veg Supreme + Regular Salted Fries + Chilled Coke. Save 25% on this deal!",
+    "price": 219,
+    "category": "combos"
+  },
+  {
+    "id": 52,
+    "image": "/images/combos/combo-4.png",
+    "rating": 4.8,
+    "title": "Chicken Spicy Value Combo",
+    "desc": "McSpicy Chicken Burger + Regular Peri Peri Fries + Chilled Coke. Ultimate saver pack.",
+    "price": 279,
+    "category": "combos"
+  },
+  {
+    "id": 53,
+    "image": "/images/combos/combo-5.png",
+    "rating": 5.0,
+    "title": "Exclusive Maharaja Meal",
+    "desc": "Veg Maharaja Mac + Large Peri Peri Fries + Coke + Creamy Jalapeno Dip.",
+    "price": 349,
+    "category": "combos"
+  },
+  {
+    "id": 54,
+    "image": "/images/combos/combo-6.png",
+    "rating": 4.6,
+    "title": "Super Saver Twin Aloo Combo",
+    "desc": "2 Classic Aloo Tikki Burgers + 1 Medium Fries + 1 Fountain Sprite.",
+    "price": 199,
+    "category": "combos"
+  },
+  {
+    "id": 55,
+    "image": "/images/combos/combo-7.png",
+    "rating": 4.8,
+    "title": "Premium Paneer Royal Box",
+    "desc": "Spicy Paneer Burger + 1 Loaded Cheese Fries + 1 Cool Lemon Iced Tea Cup.",
+    "price": 299,
+    "category": "combos"
+  },
+  {
+    "id": 56,
+    "image": "/images/combos/combo-8.png",
+    "rating": 4.7,
+    "title": "Twin Chicken Double Meal",
+    "desc": "2 McSpicy Chicken Burgers + 1 Large Peri Peri Fries + 2 Regular Cokes.",
+    "price": 399,
+    "category": "combos"
+  },
+  {
+    "id": 57,
+    "image": "/images/combos/combo-9.png",
+    "rating": 4.9,
+    "title": "Mutton Royal Elite Combo",
+    "desc": "Premium Mutton Whopper + 1 Waffle Criss-Cross Fries + 1 Premium Chocolate Shake.",
+    "price": 429,
+    "category": "combos"
+  },
+  {
+    "id": 58,
+    "image": "/images/combos/combo-10.png",
+    "rating": 4.8,
+    "title": "Cheese Burst Extreme Combo",
+    "desc": "1 Cheese Burst Veggie Burger + Cheesy Habanero Balls + 1 Cold Beverage.",
+    "price": 279,
+    "category": "combos"
+  },
+  {
+    "id": 59,
+    "image": "/images/combos/combo-11.png",
+    "rating": 5.0,
+    "title": "Midnight Chicken Gamer Box",
+    "desc": "1 Spicy Chicken Burger + 6 Pcs Chicken Nuggets + 1 Loaded Fries + 1 Large Coke Pot.",
+    "price": 449,
+    "category": "combos"
+  },
+  {
+    "id": 60,
+    "image": "/images/combos/combo-12.png",
+    "rating": 4.5,
+    "title": "Friends Veg Hangout Box",
+    "desc": "2 Crispy Veg Supreme + 2 Golden Onion Rings + 2 Pizza Pockets + 2 Orange Fanta.",
+    "price": 459,
+    "category": "combos"
+  },
+  {
+    "id": 61,
+    "image": "/images/combos/combo-13.png",
+    "rating": 4.7,
+    "title": "Romantic Couple Chicken Feast",
+    "desc": "1 Veg Supreme + 1 Chicken Supreme + 1 Large Fries + 2 Sweet Chocolate Shakes.",
+    "price": 389,
+    "category": "combos"
+  },
+  {
+    "id": 62,
+    "image": "/images/combos/combo-14.png",
+    "rating": 4.9,
+    "title": "Big Family Veg Feast Box",
+    "desc": "4 Crispy Veg Supreme Burgers + 2 Large Fries + 2 Loaded Fries + 4 Large Cokes + 2 Dips.",
+    "price": 899,
+    "category": "combos"
+  },
+  {
+    "id": 63,
+    "image": "/images/combos/combo-15.png",
+    "rating": 5.0,
+    "title": "Ultimate Non Veg Mega Office Party Pack",
+    "desc": "6 McSpicy Chicken Burgers + 4 Mutton Whoppers + 4 Large Fries + 24 Pcs Chicken Nuggets + 10 Large Cokes. Serves 10-12 people perfectly.",
+    "price": 1799,
+    "category": "combos"
+  }
+]
