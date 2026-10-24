@@ -2,8 +2,7 @@ FROM eclipse-temurin:17-jdk-jammy
 
 WORKDIR /app
 
-# Copy the Back_end contents into the container workdir
-COPY Back_end/ .
+COPY . .
 
 RUN ./mvnw clean package -DskipTests
 
